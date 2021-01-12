@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    body {
+        background-color: gray;
+    }
+    nav {
+       background-color: rgb(65, 72, 80);
+       height: 90px;
+       padding-left: 300px;
+    }
+    nav img {
+        display: inline-block;
+        float: left;
+        margin-top: 10px;
+    }
+    nav ul li {
+        display: inline-block;
+        margin: 30px;
+        color: white;
+        opacity: .5;
+    }
+    #img1 {
+        padding: 30px 0px 0px 300px;
+    }
+    #img2{
+        padding: 30px 0px 0px 300px;
+    }
+    #img3{
+        margin-left: 25px;
+    }
+    #img4{
+        margin-left: 25px;
+    }
+    #img5 {
+        padding: 30px 30px 0px 300px;
+        float: left;
+    }
+     main h1 {
+        padding-top: 30px;
+         font-size: 20px;
+     }
+     main p {
+        overflow: hidden;
+         height: 332px;
+         width:460px;
+    }
+    main p:hover {
+        overflow:hidden;
+    }
+    main button {
+       margin-top: 10px;
+       background-color: black;
+       color:white;
+       width: 150px;
+       height: 30px;
+    }
+    main button:hover {
+    background-color:red;
+     }
+    footer div {
+        height: 80px;
+        margin-top: 30px;
+        background-color: rgb(65, 72, 80);
+    }    
